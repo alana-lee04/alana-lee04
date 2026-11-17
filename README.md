@@ -24,12 +24,6 @@ Data Analytics graduate student at The George Washington University (Master of S
 | [Metro Capacity Indicator](https://github.com/alana-lee04/metro-capacity-indicator-requirements) | Requirements for a system showing how full each Metro train car is | Elicitation, Kano, UML, requirements management |
 | [VEX Robot Systems Engineering](https://github.com/alana-lee04/vex-robot-systems-engineering) | Applying the systems engineering process to a programmable robot | ConOps, architecture, verification testing |
 
-### Programming
-
-| Project | Description | Tools |
-|---|---|---|
-| [Python Programming Projects](https://github.com/alana-lee04/python-programming-projects) | Rock Paper Scissors game and a SQLite songs database app | Python, SQLite |
-
 ## Skills
 
 **Programming:** Python, R, SAS, SQL (SQLite), AMPL  
