@@ -1,4 +1,4 @@
-# Hi, I'm Alana Lee 👋
+# Hi, I'm Alana 👋
 
 Data Analytics graduate student at The George Washington University (Master of Science expected May 2027), building on a Bachelor of Science in Systems Engineering. I use Python, R, SAS and machine learning alongside Model-Based Systems Engineering and risk analysis to turn complex data into informed engineering decisions.
 
