@@ -1,6 +1,6 @@
 # Hi, I'm Alana 👋
 
-Data Analytics graduate student at The George Washington University (Master of Science expected May 2027), building on a Bachelor of Science in Systems Engineering. I use Python, R, SAS and machine learning alongside Model-Based Systems Engineering and risk analysis to turn complex data into informed engineering decisions.
+Data Analytics graduate student at The George Washington University (Master of Science expected May 2027), building on a Bachelor of Science in Systems Engineering. I use R and Python for regression, forecasting, spatial analysis, statistical process control and interactive dashboards, and I bring a systems engineering approach of requirements analysis, UML modeling and risk analysis to turn complex data into informed decisions.
 
 - 🔭 Currently working on my master's thesis on heat risk and cooling center access in Washington, DC
 - 🏆 Co-authored an IEEE-published paper on transit safety analytics with WMATA (Best Paper and Honorable Mention, 2026)
