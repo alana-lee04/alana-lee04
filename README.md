@@ -15,7 +15,7 @@ Data Analytics graduate student at The George Washington University (Master of S
 | [WMATA Safety Analytics](https://github.com/alana-lee04/wmata-safety-analytics) | Interactive incident map, forecasting and hotspot analysis for WMATA's safety team (IEEE published) | R Shiny, Leaflet, Python, Prophet |
 | [Battery Life Regression](https://github.com/alana-lee04/battery-regression) | Which operating conditions predict satellite battery life, using model selection and cross-validation | Python, statsmodels |
 | [NCAA Playoff Rankings](https://github.com/alana-lee04/ncaa-playoff-rankings-eda) | Which team statistics the College Football Playoff committee rewards, 2014–2023 | R, rvest, ggplot2 |
-| [JFK Departure Delay SPC](https://github.com/alana-lee04/jfk-departure-delay-spc) | Statistical process control study of flight delays at JFK Airport | R, control charts |
+
 
 ### Systems engineering
 
